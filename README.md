@@ -1,4 +1,4 @@
-Energy Consumption Forecasting with Machine Learning
+<img width="1500" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/a40220a2-a113-4519-b100-cea78cd86830" />Energy Consumption Forecasting with Machine Learning
 
 This project builds a time-series machine learning model to predict hourly energy consumption. It demonstrates how to combine operational data (energy demand) with external IT data (weather) to create a highly accurate forecast.
 
@@ -12,7 +12,8 @@ R-squared (R²): 0.97
 
 Root Mean Squared Error (RMSE): ~414 MW (an error of ~2.7% against the average)
 
-(This plot shows the model's predictions (red) vs. the actual energy demand (blue) for a 1-week period from the test set. Note the accurate tracking of peaks and troughs.)
+
+<img width="1500" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/849a14d7-77da-4c0d-b19e-792457b7f3a2" />
 
 Tech Stack
 
@@ -48,8 +49,8 @@ How to Run This Project
 
 Clone the repository:
 
-git clone [your-repo-link]
-cd [your-repo-name]
+git clone [https://github.com/tanvirul-1230/Energy-Consumption-Forecasting-with-Machine-Learning/tree/main]
+cd [Energy-Consumption-Forecasting-with-Machine-Learning]
 
 
 Create a virtual environment and install dependencies:
